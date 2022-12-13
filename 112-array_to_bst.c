@@ -31,3 +31,4 @@ bst_t *array_to_bst(int *array, size_t size)
 
 	return (tree);
 }
+

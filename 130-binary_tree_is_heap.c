@@ -170,3 +170,4 @@ int binary_tree_is_heap(const binary_tree_t *tree)
 	}
 	return (is_max_bin_heap);
 }
+
